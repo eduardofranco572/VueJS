@@ -4,13 +4,13 @@
 <br>
 <div align="center">
    <h1>Imagens do projetoe</h1>
-   <img src="img.jpg">
+   <img src="img1.jpg">
   <br>
 </div>
 <br>
 
 ## Como Executar?
-Para executar primeiramente após a a instalação do projeto abra o cmd na pasta do projeto!. Após isso execute o comando `npm install`, espera a instalação ocorrer... Agora com o fim da instalação Execute o comando `npm start`. 
+Para executar primeiramente após a a instalação do projeto abra o cmd na pasta do projeto!. Após isso execute o comando `npm i` ou  `npm install` , espera a instalação ocorrer... Agora com o fim da instalação Execute o comando `npm run exercicios` ou `npm run qrcode` ou `npm run sales` que são os 3 projetos realizados. 
 É necessário fazer isso para que seja criado um servidor local na sua maquina e assim abra o projeto. Caso ocorra algum erro execute o comando `npm i` para instalar as dependências.
 
 <br>
